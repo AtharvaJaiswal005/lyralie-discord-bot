@@ -1,1 +1,1 @@
-# lyralie-discord-bot
+# lyralie-discord-bot alive status
